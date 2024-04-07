@@ -1,4 +1,4 @@
-<h1><center>Sign Language Detection Project</center>center></h1>
+<h1><center>Sign Language Detection Project</center></h1>
 <h1><b>Overview</b></h1>
 <h3><p>This project aims to develop a sign language detection system using computer vision techniques. The system will be able to recognize and interpret sign language gestures captured via a camera feed in real-time. This README provides an overview of the project, including its objectives, requirements, installation instructions, usage guidelines, and contribution information.</p></h3>
 Objectives
