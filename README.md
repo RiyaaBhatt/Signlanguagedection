@@ -21,7 +21,7 @@ Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 
 <b><h1>Fork the repository.</h1></b>
-1.Create a new branch for your feature or bug fix.
-2.Make your changes and ensure they adhere to the project's coding standards.
-3.Test your changes thoroughly.
+1.Create a new branch for your feature or bug fix.<br>
+2.Make your changes and ensure they adhere to the project's coding standards.<br>
+3.Test your changes thoroughly.<br>
 4.Create a pull request, clearly describing the changes you've made.
