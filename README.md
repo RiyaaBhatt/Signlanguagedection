@@ -9,12 +9,12 @@ The main objectives of this project are as follows:
 <li>Provide a user-friendly interface for interacting with the system.</li>
 </ul>
 <b><h1>Requirements</h1></b>
-Python 3.x
-OpenCV
-TensorFlow or PyTorch (for training the deep learning model)
-NumPy
-Matplotlib (for visualization, optional)
-Webcam or any camera device for capturing input.
+Python 3.x<br>
+OpenCV<br>
+TensorFlow <br>
+NumPy<br>
+Matplotlib (for visualization, optional)<br>
+Webcam or any camera device for capturing input.<br>
 <b>Installation</b>
 Clone the repository to your local machine
 Contributing
